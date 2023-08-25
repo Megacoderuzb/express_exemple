@@ -1,0 +1,5 @@
+POST http://localhost:7000/products
+Content-Type: application/json
+{
+    "name":"oppo A 15s"
+}
